@@ -17,7 +17,7 @@ You can visit my site for your safe password aswell.
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/vaultwarden-docker-setup.git
+   git clone https://github.com/Rajchal/vaultwarden-docker-setup.git
    cd vaultwarden-docker-setup
    ```
 
