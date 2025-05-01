@@ -6,7 +6,7 @@ services:
     container_name: vaultwarden
     restart: unless-stopped
     ports:
-      - "80:80" # Expose HTTP
+      - "8080:80" # Expose HTTP
     volumes:
       - ./data:/data # Persist data on the host
     environment:
